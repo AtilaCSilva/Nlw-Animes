@@ -6,7 +6,7 @@
 Projeto construído do evento Next Level Week
 da Rockeatseat.
 
-[🔗Clique aqui para acessar](https://atilacsilva.github.io/Nlw-eSports) 
+[🔗Clique aqui para acessar](https://atilacsilva.github.io/Nlw-Animes) 
 
 
 ## 🚀 Tecnologias 
