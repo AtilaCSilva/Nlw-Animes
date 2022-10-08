@@ -15,5 +15,5 @@ da Rockeatseat.
 - CSS
 - Git e Github
 
-### ✍️ O que aprendi!
+### ✍️  O que aprendi!
 Nessa semana de Next Level Week, aprendi muito sobre CSS e HTML, todavia mais doque isso. Entendi o que um Dev precisa para se tornar um profissonal qualificado, além de aprendizados que vão além da técnica💻
